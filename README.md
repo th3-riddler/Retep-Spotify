@@ -26,5 +26,13 @@ chmod +x Retep
 ```
 And then you can run it with:
 ```bash
-./Retep
+./Retep [option]
+```
+For more information about `option` type:
+```bash
+./Retep -h
+```
+or
+```bash
+./Retep --help
 ```
