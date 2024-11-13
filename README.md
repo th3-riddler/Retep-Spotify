@@ -1,4 +1,16 @@
 # Retep Spotify
+
+<br>
+<div align="center">
+
+![language](https://img.shields.io/github/languages/top/th3-riddler/Retep-Spotify?style=for-the-badge&logo=python&color=blue)
+![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github)
+![OS](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Spotify](https://img.shields.io/badge/Spotify-40a02b?style=for-the-badge&logo=spotify&logoColor=white)
+
+</div>
+<br>
+
 Retep Spotify is a simple **Spotify Controller** that allows you to interact with your Spotify playback from the terminal and it's thought to make it easier to control with some keyboard shortcuts.
 
 ## Installation
